@@ -138,6 +138,11 @@ align-items: end;
     border-radius: .3rem;
 }
 
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+
 h2 {
 	font-size: 42px;
 	line-height: 1em;
@@ -329,7 +334,7 @@ footer .foo {
 }
 
 /* Mobile nav */
-@media only screen and (max-width: 980px) {
+@media only screen and (max-width: 990px) {
 	#navbarSupportedContent {
 		background: white;
 		border: 1px solid #efefef;
