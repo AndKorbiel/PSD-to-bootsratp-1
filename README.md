@@ -5,4 +5,4 @@ PSD template source: https://www.os-templates.com/free-psd-templates/nobodysfool
 JPG with preview included.
 
 Live version:
-andkorbiel.github.io/PSD-to-bootstrap-1/
+https://andkorbiel.github.io/PSD-to-bootstrap-1/
